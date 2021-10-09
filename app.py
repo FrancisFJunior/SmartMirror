@@ -1,5 +1,5 @@
 from datetime import datetime
-
+import Classes.sensor
 import requests
 from flask import Flask, render_template
 
